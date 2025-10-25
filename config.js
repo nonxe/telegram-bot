@@ -1,12 +1,12 @@
 global.prefix = '/'; // Set Your Preferred Prefix
-global.botName = 'GIFTED-MD'; // Bot Name
+global.botName = 'BILAL-MD'; // Bot Name
 global.botVersion = '2.0.2';
-global.botPic = 'https://files.giftedtech.web.id/file/gifted-md.jpg'; // Can use path, can also use link
+global.botPic = 'https://github.com/nonxe/telegram-bot/blob/main/imgx.jpg'; // Can use path, can also use link
 global.botToken = '7267479440:AAFUOGy7mqGNCI8klIkOqb0QzYoYCQ9o8Rw'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = 'mauricegift'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nairobi'; // Your Time Zone
 global.ownerId = [8084255827]; // Replace With Your Owner Chat ID(For Bot Owner), You Can Add More than 1
-global.footer = '*Powered by GiftedTech*';
+global.footer = '*Powered by BILAL KING*';
 global.ytdlWeb = 'https://youtube.giftedtech.web.id';
 global.giftedYtdlpApi = 'https://socialdl.giftedtech.co.ke';
 global.giftedApi = 'https://api.giftedtech.co.ke/api'; // Gifted Api
