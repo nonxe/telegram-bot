@@ -1,7 +1,7 @@
 global.prefix = '/'; // Set Your Preferred Prefix
 global.botName = 'BILAL-MD'; // Bot Name
 global.botVersion = '2.0.2';
-global.botPic = 'https://github.com/nonxe/telegram-bot/main/imgx.jpg'; // Can use path, can also use link
+global.botPic = 'https://raw.githubusercontent.com/nonxe/telegram-bot/070d079ec602b0677819bc9024ac2c96d230861d/imgx.jpg'; // Can use path, can also use link
 global.botToken = '8431608157:AAFX1zpx8C6-qT6sQe2tw6rukeamq15wNNY'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = 'bilal_982_king'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nairobi'; // Your Time Zone
